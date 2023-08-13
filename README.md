@@ -1,7 +1,7 @@
 # Year-11-CS-Unit-2-Lab-Method
 
 Your job is to create one class called Method and implement the methods described below.<br/>
-You should pass all of the tests in the MethodTester class (provided).<br/>
+You should pass all of the tests in the MethodTest class (provided).<br/>
 
 When we wish to output a value to the console, we use the statement:<br/>
 
@@ -10,13 +10,6 @@ System.out.println(insertValueThatYouWishToPrintHere) to print on different line
 
 In intelliJ, a neat shortcut for the print statement is to type “sout” and press enter.<br/>
 In intelliJ, a neat shortcut to create a main method is to type “main” and press enter.<br/>
-
-Please write the number of each task as a comment above each task. For example:<br/>
-
-// 1<br/>
-int myAge = 58;<br/>
-// 2<br/>
-String myName = "Keanu Reeves";<br/>
 
 Ensure that your parameter names are meaningful variable names.<br/>
 
