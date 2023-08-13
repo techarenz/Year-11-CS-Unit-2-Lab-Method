@@ -42,20 +42,22 @@ Below is an example of a call to the triple method.<br/>
 triple(“oohbaby”) → prints “oohbabyoohbabyoohbaby”	<br/>
 Call your triple method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. <br/>
 
-5. Write a method called half that takes an integer and returns half of its value.  <br/>
+8. Write a method called half that takes an integer and returns half of its value.  <br/>
 Below is an example of a call to the half method. <br/>
 half(8) → 4.0<br/>
 half(17) → 8.5	<br/>
 Call your half method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable.  <br/>
 
-6. Write a method called roundPositiveValueToNearestInteger that takes a double that is positive and rounds this value to the nearest integer.<br/>
+9. Write a method called roundPositiveValueToNearestInteger that takes a double that is positive and rounds this value to the nearest integer.<br/>
 Below is an example of a call to the half method.<br/>
 roundPositiveValueToNearestInteger(8.5) → 9<br/>
 roundPositiveValueToNearestInteger(8.49) → 8	<br/>
-Call your roundPositiveValueToNearestInteger method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. <br/>
+Call your roundPositiveValueToNearestInteger method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. Use casting in your solution to achieve the desired output. 
+<br/>
 
-7. Write a method called roundNegativeValueToNearestInteger that takes a double that is negative and rounds this value to the nearest integer.<br/>
+10. Write a method called roundNegativeValueToNearestInteger that takes a double that is negative and rounds this value to the nearest integer.<br/>
 Below is an example of a call to the half method.<br/>
 roundNegativeValueToNearestInteger(-8.5) → -9<br/>
 roundNegativeValueToNearestInteger(-8.49) → -8	<br/>
-Call your roundNegativeValueToNearestInteger method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. <br/>
+Call your roundNegativeValueToNearestInteger method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. Use casting in your solution to achieve the desired output. 
+<br/>
